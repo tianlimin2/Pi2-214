@@ -1,0 +1,121 @@
+id,Value statement,Acceptance criteria:,Value Statement Score:,Acceptance Criteria Score:,Feedback/Suggestions:
+1944,"As a site visitor, I want to be able to find out about events and activities going on around the borough. ","Easy to use, interactive events calendar to include the following features:
+* Events can be searched by date, location, category or a combination of all these
+* Events to show an image, location - including map, dates, times, cost, contact / booking information, and other relevant information","One role defined (10/10): Defines only one user role, ""site visitor.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+
+
+","Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (8/10): The ""So that"" part correlates with the user definition but may benefit from clearer alignment.
+Correlation with ""So that"" and ""I want to"" (8/10): The ""So that"" part correlates with the ""I want to"" part but could have a more explicit connection.
+Product definition in ""I want to"" (10/10): The ""I want to"" part includes a specific description of the product.
+Total Score: 76/80","The ""So that"" part may need clarification to ensure alignment with the user's definition and expectations."
+1945,"Value statement: As an event organiser, I want to advertise my local events on the Haringey website. ","* Ability for event organisers to submit events for consideration (public webform to contain mandatory and optional fields, plus ability to upload an image)
+* Submitted events go into a queue for review/approval (also triggers an email alert to content editors)","
+
+One role defined (10/10): Defines only one user role, ""event organiser.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+
+","Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (10/10): The ""So that"" part correlates closely with the user definition.
+Correlation with ""So that"" and ""I want to"" (10/10): The ""So that"" part correlates closely with the ""I want to"" part.
+Product definition in ""I want to"" (8/10): The ""I want to"" part could provide a more specific description of the product.
+Total Score: 78/80","The ""I want to"" part could be more specific in describing the product to ensure clear understanding by developers."
+1946,"Value statement: As a content editor, I want to manage events in a central place yet publish events in different places to avoid duplication and effort. ","* Event information can be filtered (by category/location etc) and made to appear on other pages/websites (e.g. business events appear on business pages, events in Tottenham can appear on the Tottenham microsite)","
+
+One role defined (10/10): Defines only one user role, ""content editor.""
+Definition length (10/10): The definition is concise, not exceeding 10 words.
+Presence of keywords (10/10): Includes key phrases like ""As a,"" ""I want to,"" ""So that.""
+Number of commas and ""ands"" (10/10): Comma and ""and"" usage is within the limit.
+
+","Keyword consistency (10/10): Keywords from the value statement are reflected in the acceptance criteria.
+Correlation with ""So that"" (10/10): The ""So that"" part correlates closely with the user definition.
+Correlation with ""So that"" and ""I want to"" (10/10): The ""So that"" part correlates closely with the ""I want to"" part.
+Product definition in ""I want to"" (10/10): The ""I want to"" part provides a clear and concise description of the product.
+Total Score: 80/80","Overall, the score is high, and it's recommended to maintain this clear style of writing user stories."
+1947,"Value statement: As a content editor, I want to be able to easily add recurring date information, and keep information up to date. ","Can tag events as recurring, allowing for patterns such as daily, weekly, monthly, first Monday of every month, every other week,  with ability to include/exclude specific dates (such as holidays)
+End and review dates available for events.","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+","Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80","Feedback:
+The user story is well-structured, with a clear value statement and detailed acceptance criteria. All criteria are met without any issues."
+1948,"Value statement: As a content editor, I want to be able to create subsites within the main Haringey website which differ visually from the main website content, yet are managed in the same CMS. ","Subsite option available for editors which has:
+* different header and footer
+* access to different page templates and components available within other sections of the site
+* different theme/primary colour (chosen from wider palette)
+[not to be confused with Microsites which are very different stylistically and have their own domain]","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+","
+Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 8/10
+Total Score: 78/80","Feedback:
+The product definition in the ""I want to"" part could be more specific for a perfect score."
+1950,"Value statement: As a site visitor, I need to be able to search directory-style content easily (for example local community services, park facilities, services for people with SEND). "," * search by keyword, taxonomy based facets (such as location, cost, audience, service)
+* search results displayed by list or map (list can be ordered in different ways - alphabetical or distance for example)
+* geo-enabled search (detecting person's current location to find nearest)
+* integrations with third party directory suppliers (e.g. NHS, CQC) available","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+
+
+","Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80","Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues."
+1951,"Value statement: As a site visitor, I would like to find jobs available in the council ","* searchable job listing content type, with grade, job type and other taxonomy terms applied
+* keyword search filter available (with the ability to add future search c=facets if needed in the future)","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+","Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80","Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues."
+1952,"Value statement: As a content editor,I want the CMS to automatically format document links, so the links are consistent and to save time.  ","* Document links display the correct file type and size for an uploaded file
+* Document information is removed when the link to a document is deleted from the CMS","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+","Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80","Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues."
+1953,"Value statement: As a content editor,I want to be able to easily add, find, update and delete documents in the CMS ","* Items can be searched for by name, item type, date added, who added it, date updated, who updated it, size
+* Replacing a file updates all links to that same file on the website
+* File usage option to see where a file is being used currently","
+One role defined: 10/10
+Definition length: 10/10
+Presence of keywords: 10/10
+Number of commas and ""ands"": 10/10
+
+","Keywords consistency: 10/10
+""So that"" correlated to user definition: 10/10
+""So that"" correlated to ""I want to"" part: 10/10
+Product definition in ""I want to"" part: 10/10
+Total Score: 80/80","Feedback:
+The user story is well-crafted, with a concise value statement and comprehensive acceptance criteria. All criteria are met without any issues."
